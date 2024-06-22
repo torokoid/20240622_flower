@@ -41,7 +41,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/20240622_flower/20240622_003.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/20240622_flower/20240622_006.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
